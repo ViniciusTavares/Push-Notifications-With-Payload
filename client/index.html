@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="manifest" href="/manifest.json">
+  <title>WebPush Sample</title>
+</head>
+<body>
+  <link rel="stylesheet" href="stylesheets/main.css">
+  <main>
+    <h2>Notifications with web push</h2>
+    <section>
+      <p>
+        This is a static HTML Page.  <br />
+        Click the button below to accept the permission for receiving live notifications from browser.
+      </p>
+      <p>
+        To send notifications start the server using this command on your terminal:  <code> node server.js 'Hello World!' </code> <br/>
+        The server must send a web push to all subscribeds!
+      </p>
+      <p id="subscriptionResultParagraph" class="subscription-result"></p>
+      <button id="subscribeBtn">  </button>
+    </section>
+  </main>
+  <script src="scripts/main.js"></script>
+</body>
+</html>
