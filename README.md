@@ -75,8 +75,8 @@ And... We have done! :)
 
 Finishing this file, below you can find some helpful links:
 
-https://developers.google.com/web/fundamentals/getting-started/codelabs/push-notifications/ (oficial)
-https://developers.google.com/web/updates/2016/03/web-push-encryption
-https://github.com/web-push-libs/web-push
+https://developers.google.com/web/fundamentals/getting-started/codelabs/push-notifications/ (oficial)  
+https://developers.google.com/web/updates/2016/03/web-push-encryption  
+https://github.com/web-push-libs/web-push  
 
 A really want to thank Matt Gaunt (https://gauntface.com/blog) for his tutorials. They helped me a lot!
