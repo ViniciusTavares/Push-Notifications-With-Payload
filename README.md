@@ -71,7 +71,7 @@ The command above should activate the "push" event of your service worker. In th
 }
 ```
 
-And... We have done! :)
+And... We have done it! :)
 
 Finishing this file, below you can find some helpful links:
 
