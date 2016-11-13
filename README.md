@@ -2,6 +2,8 @@
 
 This project shows how to push notifications with dynamic payload using service worker. Actually it works on Chrome and Firefox Nightly.
 
+<img src="https://raw.githubusercontent.com/ViniciusTavares/PushNotificationsWithPayload/master/images/notification_sample.png" alt="Push notification sample" />
+
 ###Required:
 
   * An activated FCM (Firebase Cloud Message) project
