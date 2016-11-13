@@ -32,7 +32,7 @@ var payloadMessage = process.argv[2]  ? process.argv[2] :  'Hey! I\'m a dynamic 
 var data = { title: 'Notification', 'body': payloadMessage, url: 'https://github.com/ViniciusTavares' };
 
 webPush.sendNotification(pushSubscription, JSON.stringify(data)).then(function(res){
-  console.log('Push has succeed send!');
+  console.log('Push has succeed sent!'); 
 }).catch(function(error) {
   console.log(error);
 });
