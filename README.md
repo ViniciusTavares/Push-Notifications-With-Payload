@@ -49,7 +49,7 @@ client/main.js
 console.log(JSON.stringify(subscription));
 ```
 
-If you have any doubts I really recommend the official documentation for push notifications on Chrome. Take a look at the end of this file to see some very useful links.
+If you have any doubts I really recommend the official documentation for pushing notifications on Chrome. Take a look at the end of this file to see some very useful links.
 
 Now, let's start our project!
 
