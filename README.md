@@ -19,7 +19,7 @@ Pay attention to change the keys in the project. Below I highlighted the main po
 
 client/manifest.json
 ```
-  "gcm_sender_id": "your send id"
+"gcm_sender_id": "your send id"
 ```
 
 server/server.js
