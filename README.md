@@ -1,4 +1,4 @@
-# Pushing notifications sending payload through server .
+# Pushing notifications sending payload through the server .
 
 This project shows how to push notifications with dynamic payload using service worker. Actually it works on Chrome and Firefox Nightly.
 
