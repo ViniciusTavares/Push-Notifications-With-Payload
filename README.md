@@ -6,14 +6,14 @@ This project shows how to push notifications with dynamic payload using service 
 
   * An activated FCM (Firebase Cloud Message) project
   * Server Key and Sender Id of FCM's project.  
-  * NodeJS installed on your SO
+  * NodeJS installed on your OS.
   * Chrome 4.X or Firefox Nightly.
 
 Before we start running our project, let's create a project in FCM!
 
 Go to: https://console.firebase.google.com/
 
-Create a new project then click on it to open the overview page. Now we need to get the server key and the sender id. Click on the configuration icon (beside of project's name) then click on "Project configurations" option. Select "Cloud messaging" tag and... that is it! now you can store yours keys.
+Create a new project then click on it to open the overview page. Now we need to get the server key and the sender id. Click on the configuration icon (besides the project's name) then click on "Project configurations" option. Select "Cloud messaging" tag and... that is it! now you can store yours keys.
 
 Pay attention to change the keys in the project. Below I highlighted the main points where you should change them.
 
