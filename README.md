@@ -47,9 +47,9 @@ client/main.js
 console.log(JSON.stringify(subscription));
 ```
 
-If you have any doubts I really recommend the official documentation for push notifications on chrome. Take a look at the end of this file to see some very useful links.
+If you have any doubts I really recommend the official documentation for push notifications on Chrome. Take a look at the end of this file to see some very useful links.
 
-Now, let's starting our project!
+Now, let's start our project!
 
 Firstly we need to install all mandatory packages. Go to 'server' folder then run npm install command:
 ```
