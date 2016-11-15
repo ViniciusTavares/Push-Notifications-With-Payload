@@ -10,7 +10,7 @@ This project shows how to push notifications with dynamic payload using service 
   * Server Key and Sender Id of FCM's project.  
   * NodeJS installed on your OS.
   * Chrome 4.X or Firefox Nightly.
-  * An HTTPS enviroment  ( I've used the Chrome web server enviroment and it's been working well )
+  * A HTTPS enviroment  ( I've used the Chrome web server enviroment and it's been working well )
 
 Before we start running our project, let's create a project in FCM!
 
