@@ -1,4 +1,4 @@
-# Pushing notifications sending payload through the server .
+# Pushing notifications with custom payload through the server (NodeJS).
 
 This project shows how to push notifications with dynamic payload using service worker. Actually it works on Chrome and Firefox Nightly.
 
@@ -9,8 +9,8 @@ This project shows how to push notifications with dynamic payload using service 
   * An activated FCM (Firebase Cloud Message) project
   * Server Key and Sender Id of FCM's project.  
   * NodeJS installed on your OS.
-  * Chrome 4.X or Firefox Nightly.
-  * A HTTPS enviroment  ( I've used the Chrome web server enviroment and it's been working well )
+  * Chrome 4.X + or Firefox Nightly.
+  * A HTTPS enviroment  ( I've used the Chrome web server enviroment and it's worked well )
 
 Before we start running our project, let's create a project in FCM!
 
