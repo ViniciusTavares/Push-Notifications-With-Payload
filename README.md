@@ -1,4 +1,4 @@
-# Pushing notifications with custom payload through the server (NodeJS).
+# Pushing notifications with custom payload through the server (NodeJS)
 
 This project shows how to push notifications with dynamic payload using service worker. Actually it works on Chrome and Firefox Nightly.
 
