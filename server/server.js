@@ -1,8 +1,9 @@
 const express = require('express');
 const webPush = require('web-push');
-var bodyParser = require('body-parser');
+const bodyParser = require('body-parser');
+const port = 6000;
+const app = express();
 
-var app = express();
 app.use(bodyParser.json());
 
 // set bellow with your FCM API KEY.
@@ -46,6 +47,6 @@ app.post('/', function (req, res) {
 
 sendNotification(process.argv[2] ? process.argv[2] :'Hello! I\'m a notification!');
 
-app.listen(6000);
+app.listen(port);
 
-console.log('Server is running on port 6000')
+console.log('Server is running on port ' + port)
